@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta= name="author" content="Eugenio Cruz Cornejo">
+        <meta name="Keywords" content="parrillada,comida, carne, keto">
+        <meta name="description" content="proyecto parrillada">
+        <link rel="stylesheet" href="./Css/style.css">
+     
+     <title>R-Parrillada</title>
+    </head>
+    <body>
+        <header>
+            <nav class="titulos">
+                <a href="index.html">INICIO</a>
+                <a href="./pages/NOSOTROS">NOSOTROS</a>
+                <a href="./pages/SERVICIOS">SERVICIOS</a>
+                <a href="./pages/MENU">MENÚ</a>
+                <a href="./pages/CONTACTO">CONTACTO</a>
+
+
+
+            </nav>
+        </header>
+        <main>
+            <section></section>
+            <div class="principal">
+                <h1>Disfruta nuestros deliciosos platos</h1>
+                <br>¡Descubre una experiencia culinaria inigualable en nuestra parrillada excepcional! En cada bocado, trasnpotamos tus sentidos a las vastas llanuras de Argentina, donde el arte de la parrillada es una tradición arraigada. Nuestro equipo apasionado de parrilleos maestos ese esfuerza por ofrecerte el auténtico saber de la carne asada a la parrilla, cuidadosamente sazonada y cocida a la perfección en brasas ardientes.
+            </div>
+            </section>
+            <section>
+                <article>
+                    <div class="contenedorservicios">
+                    <div class="cajaservicios" id="servicios"> <b id="servicios">Master Chefs</b>
+                        <br>Nuestros apacionados chefs, expertos en el arte de la parrilla, dan vida a cada corte de carne con maestría y creatividad, creando una experiencia culinaria única y llena de sabor en cada plato que servimos.
+                    </div>
+                    <div class="cajaservicios" id="servicios"><b id="servicios">Comida de Calidad</b>
+                        <br>En nuestra parrillada, la caludad de la comida es nuestro sello distintivo. Seleccionamos cuidadosamente los ingresdientes más frescos y los cortes d ecarne mas jugosos para garantizar que cada bocado sea una explosión de auténtico placer gastronómico.
+                    </div>
+                    <div class="cajaservicios" id="servicios"><b id="servicios">Ordena en linea</b>
+                        <br>Explora nuestra deliciosa oferrta desde la comodidad de tu hogar. Nuestra plataforma de orden en línea te permite seleccionar tus platos favoritos y personalizar cada detalled e tu pedido para disfurar de la experiencia de nuestra parrillda en cualquier lugar que te encuentres.
+                    </div>
+                    <div class="cajaservicios" id="servicios"><b id="servicios">Atención al Cliente</b>
+                        <br>La satisfacción d enuestros clientes es nuestra máxima prioridad. Nuestro equipo está comprometudo a brindarle un servicio excepcional y amable en cada visita. Desde el momento en que entras hasta el último bocado, te aseguramos una atención al cloente de primer nuvel que compleenta a la perfeccion nuestra deliciosa comida y ambiente acogedor.
+                    </div>
+                </div>
+                                
+
+                </article>
+                </section>
+                <section>
+                <h3>-Nosotros-</h3>
+                <h2>Bienvenidos a R-Parrillada</h2>
+                <p>En nuestra parrillada, el aroma irresistible del humo y la carne cocinándose se mezclan en una danza seductora que despueta tu apetito. Cada corte de carne es seleccionado con esmero, asegurando la frescura y la caludad que mereces.
+                    Desde los cortes ás tiernos y jugosos hasta los sabores audaces y ahumados de las costillas, te garantizamos un viaje sensorial que te dejará ansiando cada siguiente visita.
+                    Ya sea que te encuentres celebrando un momento especial o simplemente deseando un festín inolvidable, nuestra parrillada es el lugar perfecto para compartir con los tuyos. Acompaña tus platos pricnipales con una selección de guarniciones y salsas artesanales, todo preaparado para complementar y realzar la experiencia. Ven y únete a nosotros en un banquete donde el fuego, el sabor y la hospitalidad se unen para crear recuerdos duraderos. ¡Te esperamos en nuestra parrillada para compartir contigo un festín que deleitará tus sentios y te hará volver por más!
+                </p>
+            </section>
+            <section>
+             <h3>-Nuestro menú</h3>
+             <h2>Nuestros platos populares</h2>
+             <div class="platoscontenedor">
+                <div class="platos">chicken burguer</div>
+                <div class="platos">chicken burguer</div>
+                <div class="platos">chicken burguer</div>
+                <div class="platos">chicken burguer</div>
+                <div class="platos">chicken burguer</div>
+                <div class="platos">chicken burguer</div>
+                <div class="platos">chicken burguer</div>
+                <div class="platos">chicken burguer</div>
+            </div>
+            </section>
+            <Section>
+                <h3>- Consulta -</h3>
+                <h2>Completá el formulario</h2>
+            </Section>
+            <section>
+                <h3>- Nuestro equipo</h3>
+                <h2>Conocé nuestros cheff</h2>
+                <div class="contenedorservicios">
+                    <div class="nombreschefs" id="fondoschefs">Lionel Scaloni</div>
+                    <div class="nombreschefs" id="fondoschefs">Walter Samuel</div>
+                    <div class="nombreschefs" id="fondoschefs">Palo Aimar</div>
+                    <div class="nombreschefs" id="fondoschefs">Roberto Fabían Ayala</div>
+                
+                </div>
+                    
+                
+                
+
+            </section>
+        </main>
+        <Footer>
+            <div class="footer">
+           <div class="cajafooter" id="informacion">Informacion
+            <div>resrvas Policas de Privacidad Terminos y condiciones</div>
+           </div>
+           <div class="cajafooter" id="informacion">Contacto
+
+           </div>
+           <div class="cajafooter" id="informacion">Horarios</div>
+           <div class="cajafooter" id="informacion">Nuestras redes</div>
+        </div>
+
+        </Footer>
+    </body>
+</html>
